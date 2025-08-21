@@ -6,7 +6,7 @@ Collection of editor scripts I use on a daily basis. I'll do my best to keep thi
 
 ## What's Inside
 
-- **Editor Font Size** – Change Unity’s editor font sizes globally or per-style, with persistent settings via JSON snapshots
+- [**EditorFontSize**](/EditorScripts/EditorFontSize.cs) – Change Unity’s editor font sizes globally or per-style, with persistent settings via JSON snapshots (made to address [this](https://discussions.unity.com/t/is-it-possible-to-increase-the-font-size-in-the-editor/739458) issue)
 
 More scripts that I use will be added over time.
 
